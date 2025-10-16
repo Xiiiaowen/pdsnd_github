@@ -7,10 +7,10 @@ Oct 16th 2025, I created this project and README file.
 Exploring Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project analyzes bike share system data from three major US cities: Chicago, New York City, and Washington, DC. Using data provided by Motivate, we will uncover usage patterns and compare system behavior across these cities.
 
 ### Files used
-Include the files used
+The original, messier datasets have been wrangled into a consistent format for this analysis by Udacity: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
