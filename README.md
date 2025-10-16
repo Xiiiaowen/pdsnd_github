@@ -1,10 +1,7 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Exploring Bikeshare Data
 
 ### Date created
 Oct 16th 2025, I created this project and README file.
-
-### Project Title
-Exploring Bikeshare Data
 
 ### Description
 This project analyzes bike share system data from three major US cities: Chicago, New York City, and Washington, DC. Using data provided by Motivate, we will uncover usage patterns and compare system behavior across these cities.
@@ -34,5 +31,10 @@ Statistics about Trip Duration (average, max, min)
 The original, messier datasets have been wrangled into a consistent format for this analysis by Udacity: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. This repo is forked from https://github.com/udacity/pdsnd_github.git.\
+2. To get the way to make line break: https://stackoverflow.com/questions/33191744/how-to-add-new-line-in-markdown-presentation \
+3. How to create .gitignore: https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file 
+4. The data for this project are from: https://motivateco.com/, and Udacity has performed some data wrangling to condense these files.
+
+
 
