@@ -1,7 +1,8 @@
 """
 Exploring US Bike Share Data
 Project Overview 
-This project analyzes bike share system data from three major US cities: Chicago, New York City, and Washington, DC. Using data provided by Motivate, we will uncover usage patterns and compare system behavior across these cities.
+This project analyzes bike share system data from three major US cities: Chicago, New York City, and Washington, DC. 
+Using data provided by Motivate, we will uncover usage patterns and compare system behavior across these cities.
 """
 
 # 0. Import library and define some functions that could be reusable for later analysis
