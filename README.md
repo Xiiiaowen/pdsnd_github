@@ -31,8 +31,8 @@ Statistics about Trip Duration (average, max, min)
 The original, messier datasets have been wrangled into a consistent format for this analysis by Udacity: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-1. This repo is forked from https://github.com/udacity/pdsnd_github.git.\
-2. To get the way to make line break: https://stackoverflow.com/questions/33191744/how-to-add-new-line-in-markdown-presentation \
+1. This repo is forked from https://github.com/udacity/pdsnd_github.git.
+2. To get the way to make line break: https://stackoverflow.com/questions/33191744/how-to-add-new-line-in-markdown-presentation 
 3. How to create .gitignore: https://stackoverflow.com/questions/10744305/how-to-create-a-gitignore-file 
 4. The data for this project are from: https://motivateco.com/, and Udacity has performed some data wrangling to condense these files.
 
